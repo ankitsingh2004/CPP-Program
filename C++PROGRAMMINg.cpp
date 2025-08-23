@@ -1059,7 +1059,7 @@ int main(){
 //  return 0;
 // }
 
-// swap two numbers ye upper function alag hai orr niche wala main function alag hai orr inkivalue bhi alag alaga hain getting my point
+// swap two numbers 
 // #include<iostream>
 // using namespace std;
 // void swap(int x, int y){
@@ -1082,7 +1082,7 @@ int main(){
 // using  namespace std;
 // int main(){
 //     int x=3;
-//     int *p=&x; //address of x 0x11..kuch bhi aa sakta hai
+//     int *p=&x; //address of x 0x11.
 //     cout<<&x<<endl;
 //     cout<<p<<endl;
 //     return 0;
@@ -1399,7 +1399,7 @@ int main(){
 //     return 0;
 // }
 
-// sum of two number usingfriend class
+// sum of two number using friend class
 
 #include <iostream>
 using namespace std;
