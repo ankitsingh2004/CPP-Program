@@ -267,7 +267,7 @@ int main(){
 
 // Que TERNARY OPERATOR -
 // SYNTAX
-//  expression 1?expression2:expression3; this is a sytax of ternary operator ok? ok.
+//  expression 1?expression2:expression3; this is a syntax of ternary operator.
 // #include<iostream>
 // using namespace std;
 // int main(){
@@ -295,7 +295,7 @@ int main(){
 // return 0;
 // }
 
-// Que calculater by switch statement program/
+// Que calculator by switch statement program/
 
 // #include<iostream>
 // using namespace std;
@@ -353,7 +353,7 @@ int main(){
 
 //     }
 // }
-// print hello world n time by enter using
+// print hello world n time by enter using user
 // #include<iostream>
 // using namespace std;
 // int main(){
